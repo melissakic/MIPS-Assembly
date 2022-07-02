@@ -1,0 +1,9 @@
+addu $t2,$t0,$t1
+subu $t3,$t0,$t1
+and $t2,$t0,$t1
+or $t3,$t0,$t1
+xor $t2,$t0,$t1
+nor $t4,$t0,$t1
+sll $t2,$t0,4
+srl $t3,$t1,1
+sra $t4,$t0,2
